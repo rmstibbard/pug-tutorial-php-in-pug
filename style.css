@@ -1,0 +1,19 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input,
+textarea,
+button,
+.thank-you {
+  box-sizing: border-box;
+  display: block;
+  margin: 20px auto;
+  width: 500px;
+  padding: 20px;
+  font-size: 18px;
+}
